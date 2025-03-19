@@ -59,8 +59,8 @@ Easily see the secret details of your photos!
 
 ## Quick Tweaks
 
-* **MongoDB Link:** Change the MongoDB link in `back/app.py` and `back/database_handler.py`.
-* **Server Address:** Update the server IP and port in `front/script.js` to match your server.
+* **MongoDB Link:** Change the MongoDB link in `backend/app.py`.
+* **Server Address:** Update the server IP and port in `frontend/script.js` to match your server.
 
 ## Wanna Help?
 
