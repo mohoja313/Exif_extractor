@@ -24,9 +24,9 @@ Easily see the secret details of your photos!
 
 ## Project Setup
 
-* `front/`: All the website files (`index.html`, `style.css`, `script.js`).
-* `back/`: All the Python code (`app.py`, `database_handler.py`, `exif_extractor.py`).
-* `back/images/`: Where your uploaded photos go.
+* `frontend/`: All the website files (`index.html`, `style.css`, `script.js`).
+* `backend/`: All the Python code (`app.py`, `database_handler.py`, `exif_extractor.py`).
+* `backend/images/`: Where your uploaded photos go.
 
 ## How to Run It
 
