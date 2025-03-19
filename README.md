@@ -33,7 +33,7 @@ Easily see the secret details of your photos!
 1.  **Download the project:**
 
     ```bash
-    git clone <your_project_link>
+    git clone <https://github.com/mohoja313/Exif_extractor.git>
     ```
 
 2.  **Go inside the project folder:**
